@@ -15,3 +15,5 @@ I'm really looking forward to getting to know all of you and learning with you!
 
 Although you could explore the links above, in a nutshell, I'm a former professional software developer looking to acquaint myself with developments over the last 15-20 years. I have a lot of C programming experience, and some C++ and Java programming experience.
 
+My goal is to be working in this field before the end of the year.
+
