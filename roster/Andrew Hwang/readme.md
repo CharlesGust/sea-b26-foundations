@@ -4,7 +4,7 @@ GitHub: [andrewheartsXD](http://github.com/andrewheartsxd)
 
 Here is a picture of me:
 
-![me](http://imgur.com/a/xNJJN)
+![me](http://i.imgur.com/URlNk85.jpg)
 
 ####About Me
 
